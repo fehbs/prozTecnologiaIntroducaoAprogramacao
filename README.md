@@ -44,7 +44,9 @@ Preparo :
 ##### Desafio 2) - Troca de diciplina e carteira em uma sala de aula.
 
 O professor utilizou abstração; fazendo uma tabela e organizando as carteiras em 6 linhas e 6 colunas.
+
 Depois utilizou o reconhecimento de padrões encontrando a troca na Quinta coluna; na Quinta fileira.
+
 E a diciplina trocada foi Matemática(M) pelo Português(P).
 
 FIGURA 2 :
