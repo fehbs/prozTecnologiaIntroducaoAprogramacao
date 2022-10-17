@@ -1,7 +1,7 @@
-##### Desafio do Curso de Lógica de Programação - PROZ Educação - Algoritmo Bolo de Chocolate
+##### Curso de Lógica de Programação - PROZ Educação 
 
 
-##### Algoritmo – Bolo de Chocolate
+##### Desafio 1) Algoritmo – Bolo de Chocolate
 
 Ingredientes :
 
@@ -40,6 +40,43 @@ Preparo :
 7) Passo - Misture todos os ingredientes da calda  em uma panela e leve ao fogo até ferver.
 8) Passo - Faça furinhos no bolo com um garfo.
 9) Passo - Regue o bolo com a calda.
+
+##### Desafio 2) - Troca de diciplina e carteira em uma sala de aula.
+
+O professor utilizou abstração; fazendo uma tabela e organizando as carteiras em 6 linhas e 6 colunas.
+Depois utilizou o reconhecimento de padrões encontrando a troca na Quinta coluna; na Quinta fileira.
+E a diciplina trocada foi Matemática(M) pelo Português(P).
+
+FIGURA 2 :
+
+4M - COLUNA 1   
+
+2M - COLUNA 2
+
+4M - COLUNA 3
+
+2M - COLUNA 4
+
+4M - COLUNA 5
+
+2M - COLUNA 6
+
+FIGURA 3 :
+
+4M - COLUNA 1
+
+2M - COLUNA 2
+
+4M - COLUNA 3
+
+2M - COLUNA 4
+
+3M - COLUNA 5
+
+2M - COLUNA 6
+
+
+
 
 
 
