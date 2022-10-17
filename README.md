@@ -1,4 +1,4 @@
-##### Curso de Lógica de Programação - PROZ Educação 
+##### Curso de Lógica de Programação - PROZ Educação - Portal Tech - Meta - AWS
 
 
 ##### Desafio 1) Algoritmo – Bolo de Chocolate
