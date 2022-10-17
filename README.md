@@ -35,8 +35,8 @@ Preparo :
 2) Passo - Bata no litificador os ovos, o leite, o óleo, o achocolatado e o açucar.
 3) Passo - Coloque os ingredientes batidos em um bowl e acrescente a farinha e o fermento e misture tudo.
 4) Passo - Coloque em uma forma untada e polvilhada.
-5) Passo - Levar ao forno para assar durante em 180 graus C entre  30 à  40 minutos.
-6) Retire o bolo do forno.
+5) Passo - Levar ao forno para assar em 180 graus C , entre  30 à  40 minutos.
+6) Passo - Retire o bolo do forno.
 7) Passo - Misture todos os ingredientes da calda  em uma panela e leve ao fogo até ferver.
 8) Passo - Faça furinhos no bolo com um garfo.
 9) Passo - Regue o bolo com a calda.
