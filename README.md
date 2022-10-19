@@ -9,7 +9,7 @@ META
 AWS
 
 
-##### Desafio 1) Algoritmo – Bolo de Chocolate
+#### Desafio 1) Algoritmo – Bolo de Chocolate
 
 Ingredientes :
 
@@ -49,7 +49,7 @@ Preparo :
 8) Passo - Faça furinhos no bolo com um garfo.
 9) Passo - Regue o bolo com a calda.
 
-##### Desafio 2) - Troca de diciplina e carteira em uma sala de aula.
+#### Desafio 2) - Troca de diciplina e carteira em uma sala de aula.
 
 O professor utilizou abstração; fazendo uma tabela e organizando as carteiras em 6 linhas e 6 colunas.
 
@@ -84,6 +84,57 @@ FIGURA 3 :
 3M - COLUNA 5
 
 2M - COLUNA 6
+
+#### Desafio 3) - Instruções do projeto
+Em uma inscrição, o usuário informou os seguintes dados:
+
+- Nome: José Almeida da Silva
+
+- CPF: 12345678900
+
+- RG: 9517530
+
+- Altura: 1,78
+
+- Endereço: Rua A, 380 – Centro – Recife/PE
+
+No algoritmo, descreva como será:
+
+1. o identificador das variáveis;
+
+Nome
+
+CPF
+
+RG
+
+Altura
+
+Endereço
+
+2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
+
+Nome: caractere
+
+CPF: inteiro
+
+RG: inteiro
+
+Altura: real
+
+Endereço: caractere
+
+3. a utilização do comando de atribuição, apresentando identificador e dado.
+
+Nome <- José Almeida da Silva
+
+CPF <- 12345678900
+
+RG <- 9517530
+
+Altura <- 1,78
+
+Endereço <- Rua A, 380 – Centro – Recife/PE
 
 
 
