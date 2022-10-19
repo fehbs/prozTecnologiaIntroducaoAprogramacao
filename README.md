@@ -136,6 +136,70 @@ Altura <- 1,78
 
 Endereço <- Rua A, 380 – Centro – Recife/PE
 
+#### Desafio 4) - Elabore um algoritmo para que o usuário, através da entrada de dados, informe os seus dados pessoais.
+ 
+Alguns desses dados
+fornecidos pelo usuário precisam ser apresentados na tela quando o algoritmo for executado, são eles:
+ 
+- Nome;
+
+- Endereço;
+
+- Cidade;
+
+- CPF;
+
+- RG.
+
+Algoritmo "dados_do_usuario"
+
+Var
+
+nome <- caractere
+
+endereco <- caractere
+
+cidade <- caractere 
+
+cpf <- inteiro
+
+rg <- inteiro
+
+Inicio
+
+escreva("Informe o seu nome :")
+
+leia(nome)
+
+escreva("Informe o seu endereço :")
+
+leia(endereco)
+
+escreva("Informe a sua cidade :")
+
+leia(cidade)
+
+escreva("Informe o seu CPF :")
+
+leia(cpf)
+
+escreva("Informe o seu RG :")
+
+leia(rg)
+
+escreva("Nome:", nome, ".")
+
+escreva("Endereço:", endereco, ".")
+
+escreva("Cidade:", cidade, ".")
+
+escreva("CPF:", cpf, ".")
+
+escreva("RG:", rg, ".")
+
+Fimalgoritmo
+
+
 
 
 
