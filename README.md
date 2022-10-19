@@ -1,4 +1,4 @@
-### Curso de Lógica de Programação - Bootcamp
+## Curso de Lógica de Programação - Bootcamp
 
 PROZ TECNOLOGIA 
 
@@ -7,6 +7,7 @@ PORTAL TECH
 META 
 
 AWS
+##
 
 
 #### Desafio 1) Algoritmo – Bolo de Chocolate
@@ -49,6 +50,8 @@ Preparo :
 8) Passo - Faça furinhos no bolo com um garfo.
 9) Passo - Regue o bolo com a calda.
 
+##
+
 #### Desafio 2) - Troca de diciplina e carteira em uma sala de aula.
 
 O professor utilizou abstração; fazendo uma tabela e organizando as carteiras em 6 linhas e 6 colunas.
@@ -84,6 +87,8 @@ FIGURA 3 :
 3M - COLUNA 5
 
 2M - COLUNA 6
+
+##
 
 #### Desafio 3) - Instruções do projeto
 Em uma inscrição, o usuário informou os seguintes dados:
@@ -135,6 +140,8 @@ RG <- 9517530
 Altura <- 1,78
 
 Endereço <- Rua A, 380 – Centro – Recife/PE
+
+##
 
 #### Desafio 4) - Elabore um algoritmo para que o usuário, através da entrada de dados, informe os seus dados pessoais.
  
@@ -198,6 +205,8 @@ escreva("CPF:", cpf, ".")
 escreva("RG:", rg, ".")
 
 Fimalgoritmo
+
+##
 
 
 
