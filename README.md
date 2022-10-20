@@ -162,15 +162,15 @@ Algoritmo "dados_do_usuario"
 
 Var
 
-nome <- caractere
+nome : caractere
 
-endereco <- caractere
+endereco : caractere
 
-cidade <- caractere 
+cidade : caractere 
 
-cpf <- inteiro
+cpf : inteiro
 
-rg <- inteiro
+rg : inteiro
 
 Inicio
 
