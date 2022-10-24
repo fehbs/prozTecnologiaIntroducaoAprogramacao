@@ -208,6 +208,75 @@ Fimalgoritmo
 
 ##
 
+### Desafios 1 e 2 CodePake 
+## 
+#### Desafio 1
+
+Entender situações do cotidiano… para tomada de decisão
+Elabore um algoritmo que possa descobrir, através de perguntas e respostas, em qual área de um restaurante uma pessoa ou grupo de pessoas precisa ser alocada. O restaurante tem três áreas: térreo, 1ro andar, e área externa. Clientes fumantes ou com animais de estimação precisam ser alocadas na área externa. Grupos de 5 ou mais precisam ser alocados no 1ro andar, pois não dá para juntar mesas no térreo. Qualquer outro grupo de pessoas pode ser alocado no térreo.
+Algoritmo “WaiterApp”
+
+Var
+
+nomeDoCliente: caractere;
+
+numeroDaMesa: inteiro;
+
+terreo, areaExterna, primeiroAndar : inteiro;
+
+opcoes: inteiro;
+
+Inicio
+
+escreva(“Bem vindo ao Sistema WaiterApp! .”)
+
+escreva(“Informe o seu nome por favor: “)
+
+leia(nomeDoCliente) 
+
+escreva(“Escolha uma das opções abaixo por favor: 
+
+1)	Mesa para cinco pessoas ou mais.
+2)	Mesa para fumantes ou com animais de estimação.
+3)	Mesa para 1 até 4 pessoas.
+
+leia(opcoes)
+
+se(opcoes = 1) entao 
+escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
+senao
+se(opcoes = 2) entao escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
+senao
+escreva(“Nome: “,nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
+
+fimse
+
+fimalgoritmo
+
+##
+#### Desafio 2
+
+Usar métodos de repetição… agilizar os processos
+Num torneio de e-sports é necessário que todos os integrantes da mesma equipe
+tenham etiquetas que os identifiquem. 
+
+Por exemplo, se o nome da equipe é “Os Lutadores”,
+o primeiro membro deve ter uma etiqueta 
+“Os Lutadores – 1", o segundo membro “Os Lutadores – 2", e assim pela frente.
+
+Elabore um algoritmo que permita ao usuário inserir o nome da equipe, e imprime etiquetas para os 5 membros da equipe seguindo o exemplo mostrado acima.
+
+let nomeDaEquipe;
+
+console.log(“Digite o nome da sua equipe: “)
+
+for(let i in = 1; i < 5; i ++) {
+console.log(“Os” +  nomeDaEquipe  + “-“  +  i) }
+
+##
+
+
+
 
 
 
