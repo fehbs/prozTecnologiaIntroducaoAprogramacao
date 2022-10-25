@@ -234,19 +234,24 @@ escreva(“Informe o seu nome por favor: “)
 
 leia(nomeDoCliente) 
 
-escreva(“Escolha uma das opções abaixo por favor: 
+escreva(“Escolha uma das opções abaixo por favor:
 
 1)	Mesa para cinco pessoas ou mais.
 2)	Mesa para fumantes ou com animais de estimação.
-3)	Mesa para 1 até 4 pessoas.
+3)	Mesa para 1 até 4 pessoas.", opcoes)
 
 leia(opcoes)
 
 se(opcoes = 1) entao 
+
 escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
+
 senao
+
 se(opcoes = 2) entao escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
+
 senao
+
 escreva(“Nome: “,nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
 
 fimse
