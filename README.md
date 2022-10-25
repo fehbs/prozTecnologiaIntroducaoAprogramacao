@@ -269,14 +269,14 @@ Por exemplo, se o nome da equipe é “Os Lutadores”,
 o primeiro membro deve ter uma etiqueta 
 “Os Lutadores – 1", o segundo membro “Os Lutadores – 2", e assim pela frente.
 
-Elabore um algoritmo que permita ao usuário inserir o nome da equipe, e imprime etiquetas para os 5 membros da equipe seguindo o exemplo mostrado acima.
+Elabore um algoritmo que permita ao usuário inserir o nome da equipe,
+ e imprime etiquetas para os 5 membros da equipe seguindo o exemplo mostrado acima.
 
-let nomeDaEquipe;
+const nomeDaEquipe = prompt("Digite o nome da sua equipe: ");
 
-console.log(“Digite o nome da sua equipe: “)
-
-for(let i in = 1; i < 5; i ++) {
-console.log(“Os” +  nomeDaEquipe  + “-“  +  i) }
+for (let i= 1; i <= 5; i ++) {
+  console.log(nomeDaEquipe + "-" + i);
+  }
 
 ##
 
