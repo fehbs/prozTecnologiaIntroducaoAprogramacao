@@ -311,8 +311,8 @@ if average < 7 or faults > 3:
     print("Nome:", studentName, ", reprovado.")
 
 else:
-
-    print("Nome:", studentName, ", aprovado!")
+print("Nome:", studentName, 
+", aprovado!")
 
 
 
