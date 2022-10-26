@@ -208,7 +208,7 @@ Fimalgoritmo
 
 ##
 
-### Desafios 1 e 2 CodePake 
+### Desafios 1 e 2 CodePark 
 ## 
 #### Desafio 1
 
@@ -279,9 +279,40 @@ for (let i= 1; i <= 5; i ++) {
   }
 
 ##
+##
+
+## Introdução a programação
+##
+
+#### Desafios CodePark
+
+INSTRUÇÕES DO PROJETO
+
+Desenvolva um programa que utiliza o nome de um aluno, duas notas e a quantidade de faltas que ele teve. Conclua se o aluno está aprovado ou reprovado de acordo com as especificações:
+
+- Se a média do aluno for menor que sete, o sistema deve informar o nome do aluno e que ele está reprovado;
+- Se o aluno possuir mais de três faltas, o sistema deve informar o nome do aluno e que ele está reprovado; 
+- Se a média do aluno for maior ou igual a sete, o sistema deve informar o nome do aluno e que ele está aprovado. 
+
+No sistema, todos os valores devem estar armazenados em variáveis.
 
 
+studentName = str(input("Nome do aluno: "))
 
+note1 = float(input("Primeira nota: "))
+
+note2 = float(input("Segunda nota: "))
+
+faults = int(input("Quantidade de faltas: "))
+
+average = (note1 + note2) / 2
+
+if average < 7 or faults > 3:
+    print("Nome:", studentName, ", reprovado.")
+
+else:
+
+    print("Nome:", studentName, ", aprovado!")
 
 
 
