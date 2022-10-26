@@ -1,4 +1,4 @@
-## Curso de Lógica de Programação - Bootcamp
+##  Lógica Imperativa - Bootcamp
 
 PROZ TECNOLOGIA 
 
@@ -281,7 +281,7 @@ for (let i= 1; i <= 5; i ++) {
 ##
 ##
 
-## Introdução a programação
+##  Introdução a programação
 ##
 
 #### Desafios CodePark
