@@ -411,6 +411,8 @@ escreva(nome)
 
 escreva("Peso pesado")
 
+Fim se
+
 Fimalgoritmo
   
 
