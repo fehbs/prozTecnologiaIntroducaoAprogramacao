@@ -365,6 +365,70 @@ else:
 ##
 ##
 
+### Exerecícios 
+##
+  Agrupar Lutadores segundo o seu peso:
+
+  nome: caractere;
+
+  peso: real;
+  
+  Início
+
+escreva("Digite o seu nome: ,", nome)
+
+leia(nome)
+
+escreva("Digite o seu peso: ,", peso)
+
+leia(peso)
+
+se(peso <= 57) então
+
+escreva(nome)
+
+escreva("Peso pena")
+
+se não
+
+se(peso < 73) então
+
+escreva(nome)
+
+escreva("Peso médio")
+
+se não
+
+escreva(nome)
+
+escreva("Peso pesado")
+
+Fimalgoritmo
+  
+
+##
+nome = str(input("Digite o nome: "))
+
+peso = float(input("Digite o seu peso: "))
+
+if peso <= 57:
+
+    print(nome)
+
+    print("Peso pena")
+
+elif peso <= 73:
+
+    print(nome)
+
+    print("Peso médio")
+
+else:
+
+    print(nome)
+
+    print("Peso pesado")
+
 
     
     
