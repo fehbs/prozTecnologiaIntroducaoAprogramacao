@@ -284,7 +284,10 @@ for (let i= 1; i <= 5; i ++) {
 ##  Introdução a programação
 ##
 
-#### Desafios CodePark
+### Desafios_CodePark
+##
+
+### Desafio_1
 
 INSTRUÇÕES DO PROJETO
 
@@ -316,33 +319,51 @@ print("Nome:", studentName,
 
 ##
 
+
+### Desafio_2
+
+INSTRUÇÕES DO PROJETO
+Desenvolva um código que utilize as seguintes características de um veículo:
+- Quantidade de rodas;
+- Peso bruto em quilogramas;
+- Quantidade de pessoas no veículo.
+
+Com essas informações, o programa mostrará qual é a melhor categoria de habilitação para o veículo informado a partir das condições:
+A: Veículos com duas ou três rodas;
+B: Veículos com quatro rodas, que acomodam até oito pessoas e seu peso é de até 3500 kg;
+C: Veículos com quatro rodas ou mais e com peso entre 3500 e 6000 kg;
+D: Veículos com quatro rodas ou mais e que acomodam mais de oito pessoas; E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
+
+
 r = int(input("Rodas: "))
 
 kg = float(input("Peso: "))
 
 p = int(input("Passageiros: "))
 
+
 if r <= 3:
 
-    print("A")
+    print("Categoria: A")
    
 elif r == 4 and kg <= 3.499 and p < 8:
 
-    print("B")
+    print("Categoria: B")
 
-elif r > 4 and kg >= 3.500 and kg <= 5.999 and p < 8:
+elif r >= 4 and kg >= 3.500 and kg <= 5.999 and p < 8:
 
     print("C")
 
-elif r <= 4 and p > 8:
+elif r >= 4 and p > 8:
 
-    print("D")
+    print("Categoria: D")
 
 else:
 
-    print("E")
+    print("Categoria: E")
 
-
+##
+##
 
 
     
