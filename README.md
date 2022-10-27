@@ -366,7 +366,7 @@ else:
 ##
 ##
 
-### Exerecícios 
+### Exercícios 
 ##
   Algoritmo agrupar Lutadores segundo o seu peso:
 
