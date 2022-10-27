@@ -325,22 +325,26 @@ p = int(input("Passageiros: "))
 if r <= 3:
 
     print("A")
+   
+elif r == 4 and kg <= 3.499 and p < 8:
 
-elif r == 4 and kg <= 3.499 and p < 8: 
+    print("B")
 
-print("B")
-
-elif r > 4 and kg >= 3.500 and kg < 5.999:
+elif r > 4 and kg >= 3.500 and kg <= 5.999 and p < 8:
 
     print("C")
 
-elif  p > 8:
+elif r <= 4 and p > 8:
 
     print("D")
 
 else:
 
     print("E")
+
+
+
+
     
     
 
