@@ -392,6 +392,42 @@ for i in range(10,0,-1):
 print("💣BUM💥💥💥💥" *6)
  
 ##
+### Desafio_3
+
+while True:
+
+    operacao = input('Qual opreração (+, -, *, / ? ou \'Q\' para sair: ')
+    
+    if operacao == 'Q' or operacao == 'q':
+        break
+
+    elif operacao == '+' or operacao == '-' or operacao == '*' or operacao == '/':    
+        x = int(input('Digite o primeiro numero: '))
+
+        y = int(input('Digite o segundo numero: '))
+        
+        if operacao == '+':
+            result = x + y
+
+        elif operacao == '-':
+            result = x - y
+
+        elif operacao == '*':
+            result = x * y
+
+        elif operacao == '/':
+            result = x / y
+
+        else:
+            print('Operação Invalida')
+
+        print(result)
+        
+    else:
+        print('Operação Invalida')
+        input('APERTE ENTER PARA REINICIAR')
+
+##
 ##
 
 ### Exercícios 
