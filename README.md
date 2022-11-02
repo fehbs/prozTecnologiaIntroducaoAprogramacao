@@ -450,6 +450,57 @@ while True:
         input('APERTE ENTER PARA REINICIAR')
 
 ##
+### Desafio_5
+
+Desenvolva um programa que recebe do usuário nome completo e ano de nascimento que seja entre 1922 e 2021.
+A partir dessas informações, o sistema mostrará o nome do usuário e a idade que completou, 
+ou completará, no ano atual (2022).
+
+Caso o usuário não digite um número ou apareça um inválido no campo do ano,
+ o sistema informará o erro e continuará perguntando até que um valor correto seja preenchido.
+
+
+nC = input("Nome completo: ")
+
+while True:
+
+ try:
+
+    aN  = int(input("Digite o ano do seu nascimento: "))
+
+    aA = int(input('Digite o ano atual: '))
+
+    aN = aA - aN
+
+    if aA <= 2022:
+
+        print(nC)
+
+        print("Você completou " + str(aN) + " anos em " + str(aA))
+
+    else:
+
+        print(nC)
+
+        print("Você fará " + str(aN) + " anos em " + str(aA))
+            
+    c = input('Digite S para continuar ou N para finalizar: ')
+
+    if c == 'S' or c  =='s':
+
+        continue
+
+    elif c == 'N' or c == 'n':
+
+        print('Sistema finalizado!')
+
+        break
+    
+ except:
+
+    print("Por favor digite um número inteiro nesse campo!")
+
+
 ##
 
 ### Exercícios 
