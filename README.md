@@ -162,15 +162,15 @@ Algoritmo "dados_do_usuario"
 
 Var
 
-nome : caractere
+nome <- caractere
 
-endereco : caractere
+endereco <- caractere
 
-cidade : caractere 
+cidade <- caractere 
 
-cpf : inteiro
+cpf <- inteiro
 
-rg : inteiro
+rg <- inteiro
 
 Inicio
 
@@ -249,7 +249,9 @@ escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “�
 
 senao
 
-se(opcoes = 2) entao escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
+se(opcoes = 2) entao 
+
+escreva(“Nome: “, nomeDoCliente, “Número da mesa: “, numeroDaMesa, “Área: “, 0)
 
 senao
 
