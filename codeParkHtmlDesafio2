@@ -1,10 +1,10 @@
 /*
 Crie o corpo de uma página sobre lugares
- turísticos na Europa.
+turísticos na Europa.
 
- Nela, você deve focar apenas 
+Nela, você deve focar apenas 
 no conteúdo da página, adicionando textos,
- cards, imagens, entre outros. 
+cards, imagens, entre outros. 
 */
 
 
@@ -30,10 +30,10 @@ no conteúdo da página, adicionando textos,
    <a href="/">Quem somos</a> |
    <a href="/">Tour</a> |
    <a href="/">Empresas</a> |
-   <a href="/">Frota</a>|
+   <a href="/">Frota</a> |
    <a href="/">Info</a> |
    <a href="/">Pré-resevas</a> |
-   <a href="/">Contato</a>
+   <a href="/">Contato</a> |
   </nav>
 
  </header>
