@@ -1,54 +1,67 @@
+/*
+Crie o corpo de uma página sobre lugares
+ turísticos na Europa.
+
+ Nela, você deve focar apenas 
+no conteúdo da página, adicionando textos,
+ cards, imagens, entre outros. 
+*/
+
+
+
 <!DOCTYPE html>
 <html lang="pt-br">
   
 <head>
    <meta charset="UTF-8">
-  <meta name="author" content="Fernando H.B.S.">
+   <meta name="author" content="Fernando H.B.S.">
 <title>euroX</title>
 </head>
   
 <body>
   
-<header>
+ <header>
   
-  <h2>
+   <h2>
     euroX
-  </h2>
+   </h2>
   
   <nav>
-  <a href="/">Quem somos</a> |
-  <a href="/">Tour</a> |
-  <a href="/">Empresas</a> |
-  <a href="/">Frota</a>|
-  <a href="/">Info</a> |
-  <a href="/">Pré-resevas</a> |
-  <a href="/">Contato</a>
-</nav>
+   <a href="/">Quem somos</a> |
+   <a href="/">Tour</a> |
+   <a href="/">Empresas</a> |
+   <a href="/">Frota</a>|
+   <a href="/">Info</a> |
+   <a href="/">Pré-resevas</a> |
+   <a href="/">Contato</a>
+  </nav>
 
-  </header>
+ </header>
   
- <main>
+  <main>
    
-<h1>
-  Bem vindo a euroX
-</h1>
+   <h1>
+   Bem vindo a euroX
+   </h1>
    
    <h2>
      Tours com saída para Europa.
-     </h2>
+   </h2>
    
    <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/11/big-ben.jpg" alt="image from londres">
   
   </main>
   
-  <section>
+  <article>
     
-      <p>A oferta termina em 10 dias
-Economize 30% ou mais
-com a Oferta de Black Friday
-Casa ou apartamento? Reserve a estadia perfeita por menos</p>
+    <p>A oferta termina em 10 dias 
+     Economize 30% ou mais
+     com a Oferta de Black Friday
+     Casa ou apartamento? Reserve 
+     a estadia perfeita por menos
+    </p>
     
-  </section>
+  </article>
   
   <section>
     
@@ -65,24 +78,27 @@ Casa ou apartamento? Reserve a estadia perfeita por menos</p>
   <footer>
   
     <ul>
-  <li>
-  <img src="https://img.icons8.com/color/2x/instagram-new.png">
-  </li>
-  
-  <li>
-  <img src="https://img.icons8.com/color/2x/twitter.png">
-  </li>
-  
-  <li>
-    <img src="https://img.icons8.com/fluency/2x/facebook-new.png">
-  </li>
-</ul>
 
-<small>
-  Direitos autorais © 2022 euroX.com™. Todos os direitos reservados. 
+     <li>
+      <img src="https://img.icons8.com/color/2x/instagram-new.png">
+     </li>
+  
+     <li>
+      <img src="https://img.icons8.com/color/2x/twitter.png">
+     </li>
+  
+     <li>
+      <img src="https://img.icons8.com/fluency/2x/facebook-new.png">
+     </li>
+
+   </ul>
+
+    <small>
+    Direitos autorais © 2022 euroX.com™. Todos os direitos reservados. 
     </small>
     
   </footer>
 
 </body>
+
 </html>
