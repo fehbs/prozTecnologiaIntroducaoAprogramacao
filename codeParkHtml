@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  
+<head>
+   <meta charset="UTF-8">
+  <meta name="author" content="Fernando H.B.S.">
+<title>euroX</title>
+</head>
+  
+<body>
+  
+<header>
+  
+  <h2>
+    euroX
+  </h2>
+  
+  <nav>
+  <a href="/">Quem somos</a> |
+  <a href="/">Tour</a> |
+  <a href="/">Empresas</a> |
+  <a href="/">Frota</a>|
+  <a href="/">Info</a> |
+  <a href="/">Pré-resevas</a> |
+  <a href="/">Contato</a>
+</nav>
+
+  </header>
+  
+ <main>
+   
+<h1>
+  Bem vindo a euroX
+</h1>
+   
+   <h2>
+     Tours com saída para Europa.
+     </h2>
+   
+   <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/11/big-ben.jpg" alt="image from londres">
+  
+  </main>
+  
+  <section>
+    
+      <p>A oferta termina em 10 dias
+Economize 30% ou mais
+com a Oferta de Black Friday
+Casa ou apartamento? Reserve a estadia perfeita por menos</p>
+    
+  </section>
+  
+  <section>
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQx3YMY0DkJjxeUp6mHFAIBk4S2E1CBX9xA&usqp=CAU" alt="image big ban" width="16%">
+    
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LJfkTVfBIXLNIkH0cv2NqnEktPij9Gbzlg&usqp=CAU" alt="Castle of Dracula">
+    
+    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIPDxAPDxESDw8PDw8RDw8PDxEREg8PGBQaGRgUGBgcIS4lHB4rIRgYJjomLjAxNTU1GiQ7QDs0Py40NjEBDAwMEA8QGhISGjQrJSQxOzQ0NDQ2MTY0NDExMT8xNDY0NDQ2NDYxNDE0NDQ0NDQ0MTQ0NDE0NDE0NDQ0NDQ0Mf/AABEIALcBEwMBIgACEQEDEQH/xAAbAAEBAAMBAQEAAAAAAAAAAAAAAQIFBgQDB//EADUQAAICAQMCBAUDAwMFAQAAAAECABEDBBIhBTETIkFRBjJhgZEUcaFCUrFykvAHIzNiwTT/xAAaAQEBAAMBAQAAAAAAAAAAAAAAAQIDBQQG/8QAKREBAAICAQMDBAIDAQAAAAAAAAERAgMSITFBBBNRIiNhcTKxgZHwJP/aAAwDAQACEQMRAD8A/IIiJ0qYEREUEREoREtQJEtRAktREBUVEsCRLEoolIlRbNTofjLpmHS6jGmnV1R9LpshGR97b3xh2N0OPMBX0MRMdkc3JMpIVIliBIliBIliQSJZICoqIgKioiBIlioEiWokoSJaipRIlqICoqJYEiWJRJYiAiIgIliBJYiWh9cQ5naf9UMITWYQqbR+g0grnuF2+vttr7TU/BbIur8R0Ltjxu+JQAV8WwFLCu3J+vadl/1B60mu0pZ8JR8QXwnWqD76YMSL27TxXqPx589uOO3HH/urKNeU4zlD8qMSmSeiYYpEsSCRLECRLECREQEREBERIJEsQJEsQJEsQEREoREsCRLEokSxFBERLQRERQRESj1aDMUyAi+QymvUET39U1J8MIodVZlLB658tjtNbpRbr9/f+0+093U0HhqRt+dPlLf2n0M8O2I9/Fuwmfblq5Iie5oIiIUiIgIiJKCIiSgiIigkliQSJYgSJYgSWIgIiJQiIloIiIoIiJQiIhCIiAiJYHr6Wt5R/pbvXtNz17GBgB3FjaGmUBgO345/zPH8MYy2poGj4bV9fMoruK797E6v41xFdKynIzBQjBGUWLdfMTfHf2F2e9cc3flXqsI/T26sfs5S/PJJYnSeJIiICIiAiIgIiICIiFIliShIiIoIiJAiWJaEliJQkliEJJYgSJYqAiKipQiWogSpaiWUdF8EapMGrOR9xUJt8iK7cupNA/QE334nU/GHWPH0mZAzujKptsKqLBQ/N3Hy39/2nG/Dy34x57Y1sBjQO8+nPpN11JGGHKpxlAcDGgWI/wDHusntd/mpxvUT/wCqPxToaY+xP+XFkSVMonZc9jUTKoqBjEyqKihjEtRUgkS1FQJEsXIJUVLJAtRUkVAsSVEBUVMoqBKipYgSoqWIElliBIlqKlEiWoqVEiZVFQWxiZVLUFt10DGDjzMcioN2P5lL2FDE+UEXW77ToNbplZGAzAA42TaUYFyybFAYGufY9/tNT8OKFRWbE+XdmcqUDts2hOdq19eSQOJv8+OnUHTl+RtyBcgKsWtvltVFC7Pe647jiepn79upoj7VPzoRUzfGVJU91JU/uDUxqduJcoqI2xtlEuLioqFJJaiQSJYkVIliQSJYqBIlqIEiWIEllipjYkS1LUtjGJlUVKMYqZVFQMZalqKhEiWoqLRKlqJZbEqAJZVUk0BZPYD1ix3Xw7hyLptOE1S4EcM2VPEyI/ORipAVSCWUqOSOB95sgmQA7NZjXcXVk8TUAFCBWQAIbajd1Xmu+ZOgaHAyYkzplTamND5MoLOF2hyflAsLXF9x62djqun6UKy4f1IfcXRsq5Aq+Usy3dgUVHt6UQZ85t2ROycq8y7GGMxjGP6flvV8ezVahQQR4zspHYqzblI+xE8c3XxPp1TVOUUjGy49h2sEalCnbYHHH27TTTv6M+WuJ/EOXtx45zH5SJYqbLa0i5aiosS4uWoqSxIqWpKiwqSpYhUqWpQIksSpKliLGO2JlEWpUVLEwsSWWKixKiWoqWxImVRUWMYmVRUtiRUyqKi0pjUVMqlH7XLZTCpsOiOU1OEqoc718rIrgi7Io/t39rnjm1+HsJOV8qqG8FCwDBiu5jtF1z2L/cCad+URrm/hs1RecV8u8TrTKm/9IF2qDa4wv9VAjy37n3+kwX4ndwVbSFgo3bXUEVYBPY+5PHt+1851nqOTEhCDaCyKjOvmYBW3givQhe19+/oNX0zqudsi47Vt4dVUqOXKNsH+7bOBj6bLKJyrp+3Uy34xlGNth8Y9QbMMYGBMCBmDbcaqzGlK80K7N2nK1Os6tpXfTuSvKL4jeX5HQgGmoWu3f6eo+k5Wp1/QzEaqjxLweqiedywqWplUVPdbzUklzKoqSymETOoqLWmFSVM6iLKYVFTOoksYmSplUGLGMS1FSWMaiZVEWFS1LUtTC1SoqZVFRYlRUstRyGNRUyqKl5DGpamVRUchjUVMqlqOQxqKmVRUvISp2Hwz0rfplcst5MxZsTbv+5iVWUBwASVsZDXFkcHickiFjQrk1ZIAB+pnf6HPpgtYQ9Lp8enfKAjHJjQ+fcpBIU7DwOD4lnn5fF6zZWPGJen02N5cqcz8S4djqu5Wvc4CNuRb4ZRwOAV9h397mo0z7MiP/Y6PXvtYGv4m3+IMLPnZ8eLIMKqqp5d21FAHO265/wAzU/p3/syf7G7fiXRlj7MRM94Y7b9yZjw7vF04MjIcmMoHctl3OfJtLFHYJXAVhV8UCT2E4HUYDjd0bujMp+tGrnZdB1uAY3bJ4itkxlNSKQpkZAAllgQeFAqx85P1Gj+Ikxtn36c7kKIr3YKugCXzztIC0T3NzT6TLhnOM+f7bfURyxiY8f00tRUyknR5PGlSVMpajkMKipnUVHIYVFTOpKjkMaiplUVJyGNSVM6ipLGFRUzqSosYVEzqIsAJQJQJnjxlyFUWWIAHuTNU5MqYVFTKol5FMaioiORSRLEtlJLEyiymMTKIspjMoqZKtmh3PA/eORT29L0+Ny3iNtFqPmAsG7H+PzOgR8eNGVcrAVyFycDiuw7TVaDHiVQXIYVZIVivNjnjtwftN11DSAICg4Zd7Obo2LVarn0Pt3nK35RlnMuppw44dot9U61o8eDw1IDE0SyvkYKcRvzH13/8rmefSda07418Z8fiMjh0GLJQcupQAjvQVr/18X6aF9Nke9gJHPPb+fxME0jg+cce9g/4m/HZUeHmnXMz2btfAV2GlyuMbhXe3POSvM1Ht6fz6T5anRYQj7XBLrdBlJNcgD6X/wDJNHpTasEDgHzANRKnuPbny/zPfrsOFWKGyyorikcsFPmBIrj17+oPqJ58svrt68dcRhUxDi5jU9etwqrkoQyMeKvymgSpB7HkH7zzETqY5xlETDlZY8ZmJYxLUVMrY0kTKItaYxMok5FMaiplEcimNRUyqWpORTCoqfSp83dV+YgSTkUVEbx7j8iI5FNeuocH5rH7CdF8L6jN+qxHS4lzagWEV1LKWZSp4Hciz/maPFoncEqPlUsT7Ce7oPU8mkyplxuUZSCGHfj0+lzx5Z3ExDLGal5ep6PLpsjY8hZXQlXUk2rDgg/WefDqmB8xsdvqPrNv1hQ6JqH1C5c2YlnxhX3qPVmYijzY49rj4f6Ti1TOM+oTTBMbujOjNvcCwtD78y45zEXI1WTW8+Uce59ZF1hsbgK47TF9OzM4RWbbZO1WNKD8x9hyPzKuicWWBTb78G5lOyvKPaHHuPzLuHuPzNa6kWD6z4kTONg3EymoAJ45My3nnj8WBfvL7g2jMALJofWeX9cL4Un8TysHYc2R/FyjTvt3FSF5piDRrvXvJOz4WpbRHDAEcgz36DT7vMSwJIVNotif6q+1/wDBNBpmcBgo49T3r04/56TadM6gyFlJKkqUVlIXYCeWujRr1A9Zjszmcahs1VyiZdVpMGMbvFyOmLTBcmRQihSQ3Cnm/NwNp8xrj1M8nUOttqH8tqncKzg35vmYD1/exxxPL1rOFxY8aeJ4QZcuodiWDahl8q32FAEhR7meXpI/U5ExFhjDUFZ0YgFiO+wFiLFX6TzYYRP1ZPVu3TH04vnkyMx8zE/uZgVI+k7jD8BvYd9RhbGuUq4RctkDkgEr3+0mr+E8GXUtg0WpXdi04yZseTxGcKSbbdso8UKHM9MbsI6R2eThnPWXIaPUZVcHFvZufkUuSByeB3E6Ea9dXjJ3Nh1OmVmKqpIbH2Y7e52nnb6fsZqPivQ/oQmIDf4gD2pfbxXPmRe9jjn/ABPF0nerY8yMmN8V5B4j14ig0yBa5sXx6zVnhjs+rHu3at2WM8cusNx1HCr49zblOQKyEKNnidvQke/b0M5yu/0u/pXeevqetzIzri3pp2c+Gref6nzHv3/x7TRnxCSSztfzWSbH1mWmZwipYb8scsuj3DIpNBgT7AiY5cgQWf4E1jAqb7H6cVM8iOCpcG2UMpPqp7Tb7ktD3rmQi9wr6mpHzDYWFMB9fWa0r6xz2vv3Ee5I92PVK3B8p/PM+q50N+Ycd5rQhPYfeV8LKRamvQ0aP3k9yRs1yKexH7z4Z9WF4WmPPvQk6YMb50GoZkxO3ndF3FEJ5IUkX+Z6fiHSafFqGXSZTmw8bXZNjE1yNv73E7Juh4U1rA80w/ap901ZPZf5nkx4GY0ASfpPTp0ONwziqaqNenuO8x9yfleMt7g6PqcunyahMZOPGBvdRYS+1m+JzeZCG55rj7T9R/XJqdLhx6Rf0/iY0TUEMxVn3dyOwPH7czh9foFDsAbK919STVEd/f8AieeN95TEykzF00FRPcdIfUN/sMTbzhHVY9mnwuzCi2NgVAvg32P2mhwazD/21y4lOPG9uUDK7KTZBa7NVxETy6IuzV3ljq2DIhwJ5bYefaSE3DaP383J7/WbXVrp8Osp0CBXxB8Y3FQvhj2u91En6mSJsueuPhnPl0+DUabHiysihWzKfGZAwAFsQaI7AsTx+JpdXgUIgXzJkw+MjWf/ABGh2PYkgmq9/eInh1Y/yyvy097c1rE2kg+ZQSAD/STRsT7/AA/0oarKyMzKqoWJSrNkKF59OeYidHGfphvxjt+muyGiy9grEeltR9Z7MWIHEGQDdZrcASgv8GwIiZT2Z4930OFgWx5CFoggKBQc0DwOOw/ie3omm/U6xdM5V8bDI7KBsIxqrNQbbxYA9D3PrESV1lfEOg+In6fnwLqtNuTUOMOTOh3MFG3aVFoBwU7g832nP6/o2TE+Ol3B9NjzWrKu5cgII78WAYibfljC7sIxHT6nM2K8uLIwKMwHk2Ajbd0OfsJ6+iY1OqwojOMeRHYMvBOJQbPJsGlPERNc/wAZWOuTe9T6jqelaHE9ZA2fOxVTmKjEygEmldgbBH5+k5TH8SZ8mpyZUyPhVw7ZGViX2lVVrP8AVdDjtESx2TzDaanXLpmrKGzPiO58OVQ+J+zVe6xfHvNBj62+n1C6hMeIl0yWjoXx7HUqVCk8cE/cxE2TjERFfDXM9X0691QvjGkxlv02I78Yei281vP0vj7KPrP0D4C6p05elMOo48TZNMpPivpBlc42Lsg3US1VVGq4HaImE9mUd5c/1vrOlzsMuLDh8LKDiCY9P4BSiKyBeVVhzyO/7TlNRqQ7NjyMzFQBiIFhf/TnstEyxMYiFmeiYNO+SsCGt7qSpJ2lxYBP5P5M+2TobpkxIz47zlRhZd5VySK7gEdx3AiJfLGey/oGxEqbXuG5HcA2OPTgya7qT4rwgJ4bLjcgrdkrdj29oiYRETPUrs6s6fRa/NpsGPI2HSJoRqTau7Ys9DfhFi2A9+1ng8TncOJFw6nIg3MjqpBLC0LAWOa7gGjckRURjFfLbjjHX9Oj+GCNRlL7EOrWjjyFUVKVQFBULVjb7feaTrTfqXzZwEtWYuUXarMDZNGq9ew9oiascYjOWyZmdcPh0jqfhBcV0WclH23tJr719Jtk0Jya44dRvAcKAUZGfnbR3H8xEyyxiMujThhE/wC221PRNPp8j4TqMt42Yf8A50PF2P6/rLETDh+Wzhi//9k=" alt="image torre eifell">
+    
+    <img src="https://blogimages.musement.com/2019/06/15-Grecia_Fotolia_218021187_Subscription_XL.jpg" alt="image grecia" width="18%">
+    
+  </section>
+  
+  <footer>
+  
+    <ul>
+  <li>
+  <img src="https://img.icons8.com/color/2x/instagram-new.png">
+  </li>
+  
+  <li>
+  <img src="https://img.icons8.com/color/2x/twitter.png">
+  </li>
+  
+  <li>
+    <img src="https://img.icons8.com/fluency/2x/facebook-new.png">
+  </li>
+</ul>
+
+<small>
+  Direitos autorais © 2022 euroX.com™. Todos os direitos reservados. 
+    </small>
+    
+  </footer>
+
+</body>
+</html>
