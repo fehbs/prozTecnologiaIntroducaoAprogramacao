@@ -1,0 +1,2 @@
+A função alert() faz com que uma caixa pop-up apareça dentro da janela do navegador, 
+mas precisamos dar a ela uma string como argumento para informar à função qual mensagem exibir.
