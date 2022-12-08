@@ -10,6 +10,7 @@
 :root {
   --colornode7: #fff;
   --amazonBackground: #232F3E;
+  --amazonCartNav: #f08804;
   --amazonSearchIconNav: #febd69;
 }
 
@@ -65,12 +66,12 @@ li {
 }
 
 .searcheIcon {
-  color: var(--amazonCartNav);
+  color: var(--amazonSearchIconNav);
   font-size: 16px;
 }
 
 .searcheIcon:hover {
-  color: var(--amazonSearchIconNav); 
+  color: var(--amazonCartNav); 
 }
 
 /*HAMBURGER MENU NOT SEEN BECAUSE WE DID THE DESKTOP VERSION SO FAR*/
