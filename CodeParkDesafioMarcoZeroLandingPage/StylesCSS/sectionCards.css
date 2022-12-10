@@ -1,16 +1,20 @@
-body {
-  background-color: #eee;
+:root {
+  --colornode7: #fff;
+  --amazonBackground: #232F3E;
+  --amazonCartNav: #f08804;
+  --amazonSearchIconNav: #febd69;
 }
 
 button {
+color:#232F3E;
   position: relative;
   overflow: hidden;
   padding: 0.5rem 1.8rem;
-  border: 2px solid #000000d2;
+  border: 2px solid #232F3E;
   background-color: transparent;
   border-radius: 8px;
   text-transform: uppercase;
-  font-weight: 500px;
+  font-weight: 590;
   cursor: pointer;
   display: flex;
   transition: color 0.3s;
@@ -23,7 +27,8 @@ button::before {
   position: absolute;
   left: 0;
   bottom: 0;
-  background-color: #000000d2;
+  font-weight: 300;
+  background-color: #232F3E;
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s ease-in-out;
@@ -35,7 +40,7 @@ button:hover::before {
 }
 
 button:hover {
-  color: #fff !important;
+   color: var(--amazonSearchIconNav);  
 }
 
 section {
@@ -57,10 +62,10 @@ section {
 }
 
 .card.active {
-  background-color: #fff;
+  background-color: rgba(237, 229, 218, 0.438);
   box-shadow: 0 7px 15px 5px #00000033;
   transform: translateY(50px);
-  color: #0dd4c0;
+  color: #232F3E;
 }
 
 .card.active .card-image::before,
@@ -69,40 +74,20 @@ section {
 }
 
 .card.active button {
-  color: #0dd4c0;
-  border-color: #0dd4c0;
+  color: var(--amazonBackground);
+  font-weight: 590;
+  border-color: none;
 }
 
 .card.active button::before {
-  background-color: #0dd4c0;
+  background-color: var(--amazonSearchIconNav);
+  font-weight: 300;
 }
 
 .card-image {
   position: relative;
   height: 400px;
   width: 100%;
-
-}
-
-.card-image::before,
-.card-image::after {
-  content: "";
-  background-image: linear-gradient(to bottom,
-      rgba(239, 239, 239, 255),
-      rgba(239, 239, 239, 0));
-  position: absolute;
-  height: 200px;
-  right: 0;
-  top: 0;
-  left: 0;
-}
-
-.card-image::after {
-  background-image: linear-gradient(to top,
-      rgba(239, 239, 239, 255),
-      rgba(239, 239, 239, 0));
-  bottom: 0;
-  top: inherit;
 }
 
 .card-image img {
@@ -112,7 +97,7 @@ section {
 }
 
 .card-title {
-  color: #000000d2;
+  color: var(--amazonBackground);
   font-size: 2rem;
   margin: 20px 0;
 }
