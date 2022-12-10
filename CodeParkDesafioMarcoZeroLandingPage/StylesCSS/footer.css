@@ -8,7 +8,7 @@
 footer {
   padding: 40px;
   text-align: center;
-  margin-top: 75px;
+  margin-top: 18px;
   padding-bottom: 70px;
 }
 
@@ -33,6 +33,7 @@ footer button {
 }
 
 footer input {
+text-align: center;
   background-color: #facd9243;
   color: var(--amazonBackground);
 }
