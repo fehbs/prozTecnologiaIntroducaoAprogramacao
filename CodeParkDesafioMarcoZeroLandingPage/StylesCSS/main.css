@@ -14,7 +14,7 @@
 
 .image-container{
   padding-top: 10px;
-  margin: 26px 0;
+  margin: 30px 0;
   display : grid;
   place-items:center;
   background: rgba(200, 158, 104, 0.004);
@@ -24,16 +24,14 @@
   text-align: center;
   font-size: 3rem;
   color: var(--amazonBackground);
-  margin-bottom: 20px;
 }
 
 .image-container img{
-width:400px;
-height:400px;
+width:380px;
+height:380px;
 border-radius:50%;
 opacity: 0.9;
 animation: rotate 4s linear infinite;
-
 }
 
 @keyframes rotate{
@@ -43,5 +41,18 @@ from {
 
 to {
  transform: rotate(360deg);
+}
+}
+
+
+@media (max-width: 768px) {
+   .image-container { 
+    margin-top: 0;
+  }
+.image-container h2 {
+    margin-top: 9px;
+}
+.image-container img {
+    margin-top: 18px;
 }
 }

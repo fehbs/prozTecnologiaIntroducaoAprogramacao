@@ -7,8 +7,15 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+:root {
+  --colornode7: #fff;
+  --amazonBackground: #232F3E;
+  --amazonCartNav: #f08804;
+  --amazonSearchIconNav: #febd69;
+}
+
 body {
-  background-color: #eee;
+  background-color: var(--colornode7);
 }
 
 .container {
@@ -21,8 +28,8 @@ body {
 
 h1 {
   font-size: 3.3rem;
-  font-weight: 550;
-  color: #000000e1;
+  font-weight: 600;
+  color: var(--amazonCartNav);
 }
 
 .content p {
@@ -42,7 +49,7 @@ h1 {
   justify-content:start;
   height: 380px;
   width: 52%;
-  color: #f1f1f1;
+  color: var(--colornode7);
   background: rgba(252, 248, 248, 0.918); 
   background: rgba(66, 66, 66, 0.397);
   border-radius: 7px;

@@ -7,16 +7,23 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+:root {
+  --colornode7: #fff;
+  --amazonBackground: #232F3E;
+  --amazonCartNav: #f08804;
+  --amazonSearchIconNav: #febd69;
+}
+
 body {
-  background-color: aliceblue;
+  background-color: var(--colornode7);
 }
 
 h1 {
   text-align: center;
   font-size: 3.3rem;
-  font-weight: 550;
+  font-weight: 600;
   margin-top: 36px;
-  color: rgba(6, 42, 95, 0.897);
+  color: var(--amazonCartNav);
 }
 
 .flex-container {
@@ -44,7 +51,7 @@ h1 {
 
 p {
   font-size: 1.4rem;
-  color: rgba(6, 42, 95, 0.712);
+  color: var(--amazonBackground);
   margin: 15px auto;
   padding-left: 44px;
   padding-right: 44px;
