@@ -5,11 +5,11 @@
   --amazonSearchIconNav: #febd69;
 }
 
-button {
+ button {
   color:#232F3E;
   position: relative;
   overflow: hidden;
-  padding: 0.3rem 1.4rem;
+  padding: 0.8rem 1.8rem;
   border: 2px solid #232F3E;
   background-color: transparent;
   border-radius: 8px;
@@ -40,6 +40,7 @@ button:hover::before {
 }
 
 button:hover {
+   font-weight: 400;
    color: var(--amazonSearchIconNav);  
 }
 
@@ -60,30 +61,6 @@ section {
   padding-bottom: 12px;
   transition: all 0.3s;
   background-color: transparent;
-}
-
-.card.active {
-
-  background-color: rgba(237, 229, 218, 0.438);
-  box-shadow: 0 7px 15px 5px #00000033;
-  transform: translateY(50px);
-  color: #232F3E;
-}
-
-.card.active .card-image::before,
-.card.active .card-image::after {
-  display: none;
-}
-
-.card.active button {
-  color: var(--amazonBackground);
-  font-weight: 590;
-  border-color: none;
-}
-
-.card.active button::before {
-  background-color: var(--amazonSearchIconNav);
-  font-weight: 300;
 }
 
 .card-image {
@@ -108,7 +85,6 @@ section {
   display: flex;
   align-items: center;
   margin: auto;
-  margin-top: -10px;
   gap: 5px;
   font-size: 0.8rem;
 }

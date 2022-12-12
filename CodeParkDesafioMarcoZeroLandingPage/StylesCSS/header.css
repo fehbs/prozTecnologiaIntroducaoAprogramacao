@@ -14,7 +14,6 @@
   --amazonSearchIconNav: #febd69;
 }
 
-
 a {
   text-decoration: none;
 }
@@ -24,7 +23,7 @@ li {
 }
 
 .navbar {
-  height: 10vmin;
+  height: 8vmin;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -34,9 +33,10 @@ li {
   color: var(--colornode7);
 }
 
-.logo {
-  font-size: 2.3rem;
-  color: var(--colornode7); 
+ h3 {
+font-size: 1.9rem;
+font-weight: 500;
+color: var(--colornode7);
 }
 
 .menu {
@@ -81,6 +81,7 @@ input[type="checkbox"] {
 }
 
 .hamburger {
+  padding-bottom: 6px;
   display: none;
   font-size: 2.5rem;
   user-select: none;
