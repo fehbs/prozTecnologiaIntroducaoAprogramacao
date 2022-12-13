@@ -45,11 +45,15 @@ transform: rotate(360deg);
 }
 
 @media (max-width: 768px) {
+	
+body { overflow-x: hidden; 
+}
 .image-container {
-margin-top: 0;
+margin: 18px auto;
 }
 .image-container h1 {
 margin-top: 9px;
+
 }
 .image-container img {
 margin-top: 18px;
